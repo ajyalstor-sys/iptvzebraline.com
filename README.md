@@ -12,58 +12,12 @@
 
 ## 💰 Pricing Plans
 
-&lt;table align="center"&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th align="center" width="150"&gt;Duration&lt;/th&gt;
-      &lt;th align="center" width="120"&gt;Price&lt;/th&gt;
-      &lt;th align="left" width="300"&gt;What's Included&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;1 Month&lt;/strong&gt;&lt;/td&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;$14.99&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;
-        • 40,000+ Live Channels&lt;br&gt;
-        • 170,000+ Movies & Series&lt;br&gt;
-        • 4K/FHD/HD Quality&lt;br&gt;
-        • All Devices Supported
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;3 Months&lt;/strong&gt;&lt;/td&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;$27.99&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;
-        • 40,000+ Live Channels&lt;br&gt;
-        • 170,000+ Movies & Series&lt;br&gt;
-        • 4K/FHD/HD Quality&lt;br&gt;
-        • All Devices Supported
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;6 Months&lt;/strong&gt;&lt;/td&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;$45.99&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;
-        • 40,000+ Live Channels&lt;br&gt;
-        • 170,000+ Movies & Series&lt;br&gt;
-        • 4K/FHD/HD Quality&lt;br&gt;
-        • All Devices Supported
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;12 Months&lt;/strong&gt;&lt;br&gt;&lt;sub&gt;Best Value&lt;/sub&gt;&lt;/td&gt;
-      &lt;td align="center"&gt;&lt;strong&gt;$75.99&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;
-        • 40,000+ Live Channels&lt;br&gt;
-        • 170,000+ Movies & Series&lt;br&gt;
-        • 4K/FHD/HD Quality&lt;br&gt;
-        • All Devices Supported&lt;br&gt;
-        • &lt;strong&gt;Priority Support&lt;/strong&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+| Duration | Price | What's Included |
+|:--------:|:-----:|:----------------|
+| **1 Month** | **$14.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported |
+| **3 Months** | **$27.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported |
+| **6 Months** | **$45.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported |
+| **12 Months**&lt;br&gt;*(Best Value)* | **$75.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported&lt;br&gt;• **Priority Support** |
 
 ## 🌐 Website
 **[https://iptvzebraline.com](https://iptvzebraline.com)**
