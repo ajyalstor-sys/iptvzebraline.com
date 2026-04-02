@@ -1,4 +1,4 @@
-[&lt;img src="favicon-final.png" width="50" height="50" align="center"&gt;](https://iptvzebraline.com) **IPTVZebraline** - Best IPTV Service 2026 🚀
+[<img src="favicon-final.png" width="50" height="50" align="center">](https://iptvzebraline.com) **IPTVZebraline** - Best IPTV Service 2026 🚀
 
 ## 🎯 Features
 - ✅ **40,000+** Live TV Channels
