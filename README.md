@@ -1,5 +1,7 @@
 # IPTVZebraline - Best IPTV Service 2026 🚀
 
+🌐 **Website:** [https://iptvzebraline.com](https://iptvzebraline.com)
+
 ![IPTVZebraline](https://iptvzebraline.com/logo.png)
 
 ## 🎯 Features
@@ -19,14 +21,11 @@
 | **6 Months** | **$45.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported |
 | **12 Months**&lt;br&gt;*(Best Value)* | **$75.99** | • 40,000+ Live Channels&lt;br&gt;• 170,000+ Movies & Series&lt;br&gt;• 4K/FHD/HD Quality&lt;br&gt;• All Devices Supported&lt;br&gt;• **Priority Support** |
 
-## 🌐 Website
-**[https://iptvzebraline.com](https://iptvzebraline.com)**
-
 ## 📧 Support
 - Email: support@iptvzebraline.com
 
 ## 🚀 Get Started
-1. Choose your plan
+1. Choose your plan on [our website](https://iptvzebraline.com)
 2. Pay with Crypto (Bitcoin/USDT) or Credit Card
 3. Receive login credentials instantly
 4. Start watching!
